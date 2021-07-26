@@ -53,6 +53,6 @@ public class Test2 {
         List temps = new ArrayList(cols);        
         Collections.sort(temps);
 
-    	return (String)posanddist.get((Integer)temps.get(0))+"¿¡ ÀÖ°í °Å¸®´Â "+(Integer)temps.get(0)+"ÀÌ´Ù";        
+    	return (String)posanddist.get((Integer)temps.get(0))+"ì— ìˆê³  ê±°ë¦¬ëŠ”"+(Integer)temps.get(0)+"ì´ë‹¤";        
     }    	
 }
